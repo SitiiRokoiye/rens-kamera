@@ -1,0 +1,98 @@
+img{
+    width: 100%;
+    height: auto;
+}
+
+
+.bg {
+    background: pink;
+    position: absolute;
+    z-index: -1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%
+}
+.nabar li {
+    margin-right: 50px;
+  }
+  
+  .nabar {
+    background-color: blanchedalmond;
+  }
+  
+  .nabar hr {
+    background-color: #269ea6;
+    margin-top: -20px;
+    padding-top: 1px;
+  }
+  
+  .kontent {
+    background-color: #dee6f0;
+  }
+  
+  .kontent #h1 {
+    color: #269ea6;
+    font-weight: bold;
+  }
+  
+  .tg #tg {
+    margin-top: -40px;
+  }
+  
+  .tg #b {
+    background-color: rgb(244, 249, 253);
+  
+  }
+  
+  .gam h1 {
+    color: #25242e;
+  }
+  
+  .gam img {
+    border-radius: 15px;
+    margin-top: 20px;
+  }
+  
+  
+  /* Untuk Profile */
+  .profile img {
+    width: 350px;
+    height: 450px;
+  }
+  
+  .profile a {
+    background-color: #269EA6;
+    padding: 10px;
+    width: 200px;
+  }
+  
+  .profile {
+    margin-bottom: 120px;
+  }
+  
+  
+  .footer {
+    background-color: #dee6f0;
+  }
+  
+  .footer .col {
+    margin-bottom: 50px;
+    margin-top: 100px;
+  }
+  
+  .fo .col {
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+    background-color: #25242e;
+    color: aliceblue;
+    padding: 5px;
+  }
+  .container{
+      max-width: 1100px;
+      width: 100%;
+      padding: 40px 15px;
+      margin:0 auto;
+      box sizing: border-box;
+      text-align: center;
